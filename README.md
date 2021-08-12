@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Piero Furiesi (@baugigi)
 - 👀 I’m interested in Compilers, Interpreters, OCaml, 6502 Assembler, Retrocomputing (C64)...
-- 🌱 I’m currently reading this fabuolous book:
+- 🌱 I’m currently reading this fabulous book:
   "Partial Evaluation and Automatic Program Generation" by N.D.Jones, C.K.Gomard, P.Sestoft
   (http://www.dina.kvl.dk/~sestoft/pebook/pebook.html)
 - 💞️ Just for hobby, I’m developing an OCaml bytecode interpreter for the Commodore 64 -please say "Wow!"- source code coming soon...
