@@ -3,8 +3,7 @@
 - 🌱 I’m currently reading this fabuolous book:
   "Partial Evaluation and Automatic Program Generation" by N.D.Jones, C.K.Gomard, P.Sestoft
   (http://www.dina.kvl.dk/~sestoft/pebook/pebook.html)
-- 💞️ Just for hobby, I’m developing an OCaml interpreter for the Commodore 64 - please say "Wow!"
-  Source code coming soon...
+- 💞️ Just for hobby, I’m developing an OCaml bytecode interpreter for the Commodore 64 -please say "Wow!"- source code coming soon...
 
 <!---
 baugigi/baugigi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
